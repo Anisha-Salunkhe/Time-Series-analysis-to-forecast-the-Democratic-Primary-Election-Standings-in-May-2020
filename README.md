@@ -1,4 +1,5 @@
-Time Series analysis to forecast the Democratic Primary Election Standings in May 2020         Sept 2019 – Dec 2019        
+Time Series analysis to forecast the Democratic Primary Election Standings in May 2020                             Sept 2019 – Dec 2019    
+
 Keywords - Time Series Analysis, Linear & Polynomial Regression, Predictive Analytics, Tweets, Python, Curl, SQL, Pandas, Twitter – API, Graphs 
 
 ▪ Performed Data cleaning and transformed election polls data from fivethirtyeigtht.com to determine the outcome of Democratic Primary polls and determine which candidate will be most popular earning the nomination for presidential candidate for the year of May 2020.
